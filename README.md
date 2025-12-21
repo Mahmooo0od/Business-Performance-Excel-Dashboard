@@ -85,3 +85,15 @@ This project demonstrates the ability to **analyze business requirements, custom
 - Introduce dynamic targets and variance analysis
 - Include an executive summary with automated insights
 - Extend the dashboard with scenario and what-if analysis
+
+---
+
+## 👤 Author
+
+**Mahmood Mamdouh**  
+Data Analyst | Excel & Business Analytics  
+
+- GitHub: https://github.com/MahmoooOod  
+- LinkedIn: https://www.linkedin.com/in/mahmoud-mamdouh-324125220/
+
+This project is based on an open-source Excel template and was **significantly customized and enhanced** by the author to demonstrate business analysis, KPI design, and executive dashboarding skills.
